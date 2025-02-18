@@ -92,12 +92,9 @@ export const DeleteButtonContainer = styled.div`
       border-radius: 0.3rem;
       transition: 200ms ease;
 
-      &:hover {
-         background-color: #FFFFFF33;
-      }
-
       &:active {
          transform: scale(0.95);
+         background-color: #FFFFFF33;
       }
    }
    
@@ -134,13 +131,10 @@ export const Button = styled.button`
    ${(props) => props.$operator && 'background-color: #F28482;'}
    ${(props) => props.$result && 'background-color: #C8AD55;'}
    ${(props) => props.$clear && 'background-color: #BA324F;'}
-   
-   &:hover {
-      box-shadow: 0 0 0 3px #0E111666;
-   }
 
    &:active {
       transform: scale(0.95);
+      box-shadow: 0 0 0 3px #0E111666;
    }
 
    @media screen and (max-width: 500px){
