@@ -1,8 +1,15 @@
-# React + Vite
+<h1>Calculadora</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h5>Calculadora desenvolvida com React.</h5>
 
-Currently, two official plugins are available:
+<h4>Tecnologias usadas:</h4>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vite,react,styledcomponents)](https://skillicons.dev)
+
+<hr>
+
+<h3>Link da aplicação <a href="https://lucasfgaldinos.github.io/calculadora/">aqui</a></h3>
+
+<div>
+  <img height="300" src="./src/assets/print.png" alt="Print da aplicação" />
+</div>
